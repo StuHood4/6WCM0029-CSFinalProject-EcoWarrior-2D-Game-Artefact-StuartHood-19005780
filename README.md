@@ -11,7 +11,7 @@ The Godot engine can be obtained from the Godot engine website: https://godoteng
 To access the project in Godot:
   1. Open the Godot Project Manager (it's the first screen that opens when you start Godot)
   2. Press the 'Import' button in the top left hand corner of the project manager.
-  3. Select the unzipped projected folder.
+  3. Select the unzipped projected folder and import it.
   4. To view the project in the editor environment, click on the project and click the 'Edit' button.
   5. To run the game, click the 'Run' button. The game can be run from inside the editor either by pressing 'F5' or clicking the run button in the top left hand corner of the editor.
 
